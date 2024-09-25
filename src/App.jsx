@@ -156,7 +156,7 @@ export const App = () => {
               ) : (
                 <tr>
                   <td colSpan="4" className="has-text-centered">
-                    Нет результатов
+                    No results
                   </td>
                 </tr>
               )}
